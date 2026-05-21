@@ -1,6 +1,6 @@
 <div align="center">
 
-# Velpos
+# Velpos ("Velle est posse")
 
 **Package AI agents with identity, SOPs, and tools — on top of Claude Code.**
 
